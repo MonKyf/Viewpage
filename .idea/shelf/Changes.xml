@@ -1,0 +1,54 @@
+<changelist name="Changes" date="1706634310990" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher1.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher2.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher3.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher4.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round1.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round2.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round3.webp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.webp" />
+    <option name="AFTER_PATH" value="app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.webp" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round4.webp" />
+  </binary>
+</changelist>
